@@ -1,3 +1,0 @@
--Fecha y hora: 13:56
--Nombre y  apellidos: José Álvarez Chinchilla
--Trabajo de la rama "funcionalidad_2_JAC"
