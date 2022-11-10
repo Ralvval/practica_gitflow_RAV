@@ -1,1 +1,17 @@
-Se ha realizado la rama funcionalidad_1_RAV
+Borrar iniciales.txt (Raul)
+  
+Corregido error en el nombre de archivo (Jose)
+ 
+Rama funcionalidad_2_JAC fichero 1 (Jose)
+ 
+progreso.txt modificado RAV (Raul)
+
+Merge Rama funcionalidad_2_JAC fichero 1 (Jose)
+ 
+Rama funcionalidad_1_RAV fichero 1 (Raul)
+
+Merge Rama funcionalidad_1_RAV fichero 1 (Raul)
+ 
+Creacion progreso.txt (Raul)
+
+Modificacion progreso.txt con toda la informacion (Raul)
