@@ -1,0 +1,6 @@
+Primero Raul creó el repositorio y un archivo llamado progreso.txt
+Despues se añadio a los colaboradores (Jose) y empezamos a trabajar
+Cada uno hizo su rama (funcionalidad_N_iniciales) y dentro de las ramas
+se hizo el archivo iniciales.txt con su informacion correspodiente
+Cada uno hizo un merge y un push sin conflictos
+Raul creó progreso.txt y Log.txt
